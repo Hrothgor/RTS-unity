@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc6cfd70488b6494da73a89998ddad15, type: 3}
+  m_Name: CreateVillager
+  m_EditorClassIdentifier: 
+  skillName: Create Villager
+  description: Create a Villager.
+  type: 0
+  unitReference: {fileID: 1030296307164919632, guid: 8cb5816a210f5214bb7e3849af2634aa,
+    type: 3}
+  castTime: 10
+  cooldown: 0
+  onStartSound: {fileID: 0}
+  onEndSound: {fileID: 0}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc6cfd70488b6494da73a89998ddad15, type: 3}
+  m_Name: BuildWindMill
+  m_EditorClassIdentifier: 
+  skillName: Build WindMill
+  description: Build an WindMill.
+  type: 1
+  unitReference: {fileID: 8514625942376468785, guid: 67a7f0b979cc5f040902244aa98f2dcb,
+    type: 3}
+  castTime: 0
+  cooldown: 0
+  onStartSound: {fileID: 0}
+  onEndSound: {fileID: 0}
